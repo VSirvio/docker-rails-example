@@ -1,5 +1,7 @@
 # Simple clicker app
 
+[Find the application running on Render here](https://rails-project-3agt.onrender.com)
+
 # Installation
 
 Make sure you have a JavaScript runtime such as node installed.
